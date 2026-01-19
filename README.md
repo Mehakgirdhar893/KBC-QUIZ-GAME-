@@ -1,4 +1,4 @@
-KBC Quiz Simulator (C)
+## KBC Quiz Simulator (C)
 
 A Windows console-based KBC-style quiz game written in C. Users can navigate questions, select or change answers, and jump between questions. The game features colored output, a LED-style scrolling “WELCOME” display, and calculates results with prize money at the end.
 
@@ -30,11 +30,20 @@ System Requirements
 Question File Format
 
 Each question in ques.txt uses 8 lines:
+
 1.Question text
+
 2.Option A
+
 3.Option B
+
 4.Option C
+
 5.Option D
+
 6.Correct option (A–D)
+
 7.Timeout in seconds
+
 8.Prize money
+
